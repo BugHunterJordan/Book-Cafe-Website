@@ -9,7 +9,7 @@ This project is a static website for a fictional book cafe, "Pangrazzi Book Cafe
 - Clear and maintainable code organization.
 
 You can access the HTML and CSS code in the files above:
-- `PangrazziBookCafe` — contains the HTML structure and content of the Pangrazzi Book Cafe website.
+- `PangrazziBookCafe.html` — contains the HTML structure and content of the Pangrazzi Book Cafe website.
 - `PortfolioStyles.css` — contains all CSS styling rules for layout, colors, and spacing.
 
 ## Skills Practiced
